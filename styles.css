@@ -1,4 +1,3 @@
-
 :root {
   --primary-color: #785ab1;
   --secondary-color: #b1679d;
@@ -268,7 +267,7 @@ nav {
 }
 
 .portfolio__grid {
-  margin-top: 2rem;
+  margin-top: 1rem;
   display: grid;
   gap: 1rem;
 }
