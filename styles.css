@@ -184,16 +184,6 @@ nav {
   border-radius: 25rem;
 }
 
-.header__image::after {
-  position: absolute;
-  content: "AYEW";
-  letter-spacing: 1.5rem;
-  opacity: 0.5;
-  right: 1rem;
-  top: 50%;
-  transform: translate(50%, -50%) rotate(90deg);
-}
-
 .about__container {
   display: grid;
   gap: 2rem;
